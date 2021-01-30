@@ -1,5 +1,5 @@
 const help = (prefix) => {
-	return `💎 Comandos do ALN-BOT4 💎  
+	return `💎 Comandos do 𝐁𝐎𝐓 𝐎𝐅 𝐇𝐄𝐋𝐋 💎  
 🔰 Principais Comandos 🔰 
 
 Comando: '${prefix}botvip'
@@ -16,9 +16,6 @@ Como Usar: responder a imagem, ou enviar com legenda
 Comando: '${prefix}toimg'
 Função: converter adesivos em imagem
 Como Usar: responder a sticker 
-
-Comando:'${prefix}criador'
-Função: Mostra as informações do criador do bot
 
 🔰 Comandos de Memes 🔰  
 
@@ -177,12 +174,17 @@ Obs: Este comando pode ser usado se você for um administrador do grupo
 
 [ wa.me/5586988036194 ]
 
-🔰 GRUPO OFC ALN-BOT 🔰
+🔰 GRUPO OFC 𝐇𝐄𝐋𝐋 𝐅𝐀𝐌𝐈𝐋𝐘 🔰
 
-https://chat.whatsapp.com/Df7iydEZWZl8k2giVVr61s
-https://chat.whatsapp.com/Df7iydEZWZl8k2giVVr61s
-https://chat.whatsapp.com/Df7iydEZWZl8k2giVVr61s
+ᬊ͜͡𝐇𝐄𝐋𝐋 𝐅𝐀𝐌𝐈𝐋𝐘♰
 
+𝐀 𝐇𝐄𝐋𝐋 𝐅𝐀𝐌𝐈𝐋𝐘 - 𝐅𝐎𝐈 𝐂𝐑𝐈𝐀𝐃𝐀 𝐀 𝐏𝐎𝐔𝐂𝐎 𝐓𝐄𝐌𝐏𝐎 𝐌𝐄𝐓𝐀 𝐃𝐄 𝐒𝐄𝐑 𝐀 𝐅𝐀𝐌𝐈𝐋𝐈𝐀 𝐌𝐀𝐈𝐒 𝐁𝐑𝐀𝐁𝐀 𝐃𝐀 𝐖𝐄𝐁🔥
+
+https://chat.whatsapp.com/FhsiADccbG2EislJqosvZr
+https://chat.whatsapp.com/FhsiADccbG2EislJqosvZr
+https://chat.whatsapp.com/FhsiADccbG2EislJqosvZr
+
+𝐒𝐄 𝐌𝐄𝐗𝐄𝐑 𝐂𝐎𝐌 𝐔𝐌 𝐌𝐄𝐌𝐁𝐑𝐎 𝐃𝐀 𝐅𝐀𝐌𝐈𝐋𝐘 𝐇𝐄𝐋𝐋 𝐒𝐄 𝐏𝐑𝐄𝐏𝐀𝐑𝐀 𝐏𝐑𝐀 𝐕𝐄𝐑 𝐎 𝐈𝐍𝐅𝐄𝐑𝐍𝐎 ¤
 `
 }
 
